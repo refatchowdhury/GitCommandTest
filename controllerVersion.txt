@@ -1,1 +1,1 @@
-controllerVersion = 1.1
+controllerVersion = 1.2
